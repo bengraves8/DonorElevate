@@ -41,6 +41,26 @@ const logos: Logo[] = [
     name: 'Ohio State',
     imageUrl: 'https://insiderinbox.co/wp-content/uploads/2024/08/OSU-Logo.png',
     bgColor: 'bg-[#BB0000]'
+  },
+  {
+    name: 'Folds of Honor',
+    imageUrl: 'https://logo.clearbit.com/foldsofhonor.org',
+    bgColor: 'bg-[#002F6C]'
+  },
+  {
+    name: 'Boys & Girls Clubs',
+    imageUrl: 'https://logo.clearbit.com/bgca.org',
+    bgColor: 'bg-[#003DA5]'
+  },
+  {
+    name: 'University of Utah',
+    imageUrl: 'https://logo.clearbit.com/utah.edu',
+    bgColor: 'bg-[#CC0000]'
+  },
+  {
+    name: 'A Kid Again',
+    imageUrl: 'https://logo.clearbit.com/akidagain.org',
+    bgColor: 'bg-[#0067B1]'
   }
 ];
 
