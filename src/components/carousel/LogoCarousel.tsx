@@ -44,22 +44,22 @@ const logos: Logo[] = [
   },
   {
     name: 'Folds of Honor',
-    imageUrl: 'https://logo.clearbit.com/foldsofhonor.org',
+    imageUrl: 'https://www.google.com/s2/favicons?domain=foldsofhonor.org&sz=128',
     bgColor: 'bg-[#002F6C]'
   },
   {
     name: 'Boys & Girls Clubs',
-    imageUrl: 'https://logo.clearbit.com/bgca.org',
+    imageUrl: 'https://www.google.com/s2/favicons?domain=bgca.org&sz=128',
     bgColor: 'bg-[#003DA5]'
   },
   {
     name: 'University of Utah',
-    imageUrl: 'https://logo.clearbit.com/utah.edu',
+    imageUrl: 'https://www.google.com/s2/favicons?domain=utah.edu&sz=128',
     bgColor: 'bg-[#CC0000]'
   },
   {
     name: 'A Kid Again',
-    imageUrl: 'https://logo.clearbit.com/akidagain.org',
+    imageUrl: 'https://www.google.com/s2/favicons?domain=akidagain.org&sz=128',
     bgColor: 'bg-[#0067B1]'
   }
 ];
